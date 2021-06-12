@@ -1,1 +1,1 @@
-# Simple Interest Calculator using javascript
+# Simple Interest Calculator using HTML,CSS and javascript
